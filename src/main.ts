@@ -67,6 +67,7 @@ async function bootstrap() {
             'http://localhost:5173',
             'https://sofa-deal.netlify.app',
             'http://localhost:3000',
+            'https://frontend-dev-tau-hazel.vercel.app',
           ],
     credentials: true,
   });
